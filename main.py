@@ -68,6 +68,7 @@ def open_claw_auto():
 def close_claw_auto():
     claw_motor.spin_for(REVERSE, 90, DEGREES)
 
+
 # ----------------------------
 # Driver Control
 # ----------------------------
